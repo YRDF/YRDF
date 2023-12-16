@@ -12,6 +12,6 @@
 
 </div>
 
-![头像](pic1/头像.jpg)
+![btc](pic1/btc.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
