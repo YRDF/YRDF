@@ -1,4 +1,4 @@
-### 学习更改GitHub主页😄😄
+### 一起学习，一起成长😄😄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
 
 <div id="img" align=center>
