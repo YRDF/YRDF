@@ -1,4 +1,3 @@
-<div id="title" align=center>
 ### 学习使用GitHub😄😄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
 
