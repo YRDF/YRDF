@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/没想好-Zzz-red) 
 ![](https://img.shields.io/badge/没想好-Zzz-red)
 
- <img align="right" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
+
 </div>
 
 ![btc](pic1/btc.jpg)
