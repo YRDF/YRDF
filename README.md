@@ -1,6 +1,5 @@
-### 一起学习，一起成长😄😄
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=vue)
-
+### 学习更改GitHub主页😄😄
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
 
 <div id="img" align=center>
 
@@ -12,7 +11,7 @@
 
 
 </div>
- <img align="left" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
+
+![btc](pic1/btc.jpg)
+
 ![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
