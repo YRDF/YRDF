@@ -1,4 +1,4 @@
-<div id="title" align=center b>
+<div id="title" align=center  style="font-weight: bold>
  学习使用GitHub😄😄
 <div id="img" align=center>
  
