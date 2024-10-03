@@ -1,6 +1,6 @@
 ### 一起学习，一起成长😄😄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=vue)
+//![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
