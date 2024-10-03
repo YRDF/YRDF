@@ -1,7 +1,4 @@
 ### 好好学习😄😄
-<div id="title" align=center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
-
 <div id="img" align=center>
 
 
@@ -15,5 +12,6 @@
 </div>
 
 ![btc](pic1/btc.jpg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
