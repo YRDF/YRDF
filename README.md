@@ -11,5 +11,5 @@
 
 </div>
 
-
+ <img align="middle" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
