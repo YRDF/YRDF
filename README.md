@@ -12,8 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
+
+![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
 </div>
 
  <img align="middle" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
  
-![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
