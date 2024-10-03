@@ -1,8 +1,6 @@
 ### 一起学习，一起成长😄😄
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
 
 <div id="img" align=center>
 
@@ -16,5 +14,6 @@
 </div>
 
 ![btc](pic1/btc.jpg)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
 ![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
