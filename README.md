@@ -12,9 +12,9 @@
 ![](https://img.shields.io/badge/没想好-Zzz-red) 
 ![](https://img.shields.io/badge/没想好-Zzz-red)
 
-
+ <img align="right" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
 </div>
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 ![btc](pic1/btc.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/YRDF/count.svg)
