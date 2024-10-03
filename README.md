@@ -1,4 +1,6 @@
-### 学习使用GitHub😄😄
+<div id="title" align=center>
+ 
+### 好好学习😄😄
 <div id="img" align=center>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=tokyonight)](https://space.bilibili.com/513333893)
@@ -8,6 +10,8 @@
 ![](https://img.shields.io/badge/没想好-Zzz-red) 
 ![](https://img.shields.io/badge/没想好-Zzz-red)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YRDF&layout=compact&langs_count=6)
 </div>
 
  <img align="middle" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
