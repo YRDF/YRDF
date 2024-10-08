@@ -1,10 +1,7 @@
 <div id="title" align=center>
-   <div>
-      <img src="https://readme-typing-svg.demolab.com/demo/?color=36B2F7&lines=%E6%AD%8C%E6%9C%AA%E7%AB%9F%EF%BC%8C%E6%9D%B1%E6%96%B9%E7%99%BD;&center=true&size=27" />
-    </a>
-  </div>
- 
- ### 不积跬步，无以至千里😄😄
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36B2F7&width=435&lines=%E6%AD%8C%E6%9C%AA%E7%AB%9F%EF%BC%8C%E6%9D%B1%E6%96%B9%E7%99%BD" alt="Typing SVG" /></a>
+
 <div id="img" align=center>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=tokyonight)](https://b23.tv/5gOOS1D
