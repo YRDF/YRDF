@@ -1,6 +1,6 @@
 <div id="title" align=center>
  
-### 好好学习😄😄
+### 不积跬步，无以至千里😄😄
 <div id="img" align=center>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YRDF&show_icons=true&theme=tokyonight)](https://b23.tv/5gOOS1D
