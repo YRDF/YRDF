@@ -1,7 +1,7 @@
 <div id="title" align=center>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=%E6%AD%8C%E6%9C%AA%E7%AB%9F%EF%BC%8C%E6%9D%B1%E6%96%B9%E7%99%BD&font=Fira%20Code&center=true&width=380&height=50"/></a>
+  <a href="https://www.marxists.org/chinese/"><img src="https://readme-typing-svg.demolab.com/?lines=%E6%AD%8C%E6%9C%AA%E7%AB%9F%EF%BC%8C%E6%9D%B1%E6%96%B9%E7%99%BD&font=Fira%20Code&center=true&width=380&height=50"/></a>
 </p>
 
 <div id="img" align=center>
