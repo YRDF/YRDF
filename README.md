@@ -22,3 +22,5 @@
 
  <img align="middle" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
  
+![github-contribution-grid-snake](https://raw.githubusercontent.com/YRDF/YRDF/main/img/snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/YRDF/YRDF/main/img/snake_dark.svg#gh-dark-mode-only)
