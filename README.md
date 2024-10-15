@@ -22,8 +22,3 @@
 
  <img align="middle" alt="GIF" src="./gif/code.gif" width="430" height="100%" />
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YRDF/YRDF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YRDF/YRDF/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YRDF/YRDF/output/github-contribution-grid-snake.svg">
-</picture>
